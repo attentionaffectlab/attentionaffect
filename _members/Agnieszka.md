@@ -1,7 +1,6 @@
 ---
 name: Agnieszka Zuberer
 image: images/Agnieszka_photo.jpeg
-description: Group Leader
 role: pi
 aliases:
   - A Zuberer

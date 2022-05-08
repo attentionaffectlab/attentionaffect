@@ -1,7 +1,6 @@
 ---
 name: Melanni Nanni-Zapeda
 image: images/Melanni_photo.png
-description: PhD student
 role: phd
 aliases:
   - M Nanni-Zapeda

@@ -1,7 +1,6 @@
 ---
 name: Anna Giron
 image: images/Anna_photo.jpg
-description: PhD student
 role: phd
 aliases:
   - A. P. Giron
