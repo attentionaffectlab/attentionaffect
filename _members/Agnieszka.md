@@ -1,9 +1,11 @@
 ---
 name: Agnieszka Zuberer
 image: images/Agnieszka_photo.jpeg
-description: 
-role: Principal Investigator
-
+description: Group Leader
+role: pi
+aliases:
+  - A Zuberer
+  - A. Zuberer
 links:
   home-page: https://azuberer.github.io/
   email: azuberer@gmail.com

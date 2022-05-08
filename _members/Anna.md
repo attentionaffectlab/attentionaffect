@@ -2,9 +2,12 @@
 name: Anna Giron
 image: images/Anna_photo.jpg
 description: PhD student
+role: phd
+aliases:
+  - A. P. Giron
+  - A P Giron
 
 links:
-  orcid: 0000-0001-8713-9213
   email: anna.p.giron@gmail.com
 ---
 

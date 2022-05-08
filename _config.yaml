@@ -3,15 +3,15 @@
 # site properties and page defaults
 title: Attention and Affect Lab
 description: Independent research group led by Dr. Agnieszka Zuberer at the Department of Psychiatry and Psychotherapy, Tübingen University Hospital, Germany
-#logo: images/logo.svg
-header: images/background.jpg
-footer: images/background.jpg
+logo: images/logo.png
+header: images/Tuebingen_town.jpg
+footer: images/Tuebingen_town.jpg
 baseurl: ""
 
 # site social media and other links
 links:
   email: agnieszka.zuberer@med.uni-tuebingen.de
-  google-scholar: Agnieszka Zuberer
+  google-scholar: b1cBJ1EAAAAJ
   github: attentionaffectlab
   twitter: azuberer
 

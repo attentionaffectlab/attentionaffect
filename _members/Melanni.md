@@ -1,8 +1,11 @@
 ---
 name: Melanni Nanni-Zapeda
 image: images/Melanni_photo.png
-description: 
-role: PhD student
+description: PhD student
+role: phd
+aliases:
+  - M Nanni-Zapeda
+  - M Nanni
 links:
   email: nanni.melanni@gmail.com
 ---
