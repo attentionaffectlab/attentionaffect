@@ -1,8 +1,8 @@
 ### basic settings
 
 # site properties and page defaults
-title: Lab Website Template
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+title: Attention and Affect Lab
+description: Independent research group led by Dr. Agnieszka Zuberer at the Department of Psychiatry and Psychotherapy, Tübingen University Hospital, Germany
 logo: images/logo.svg
 header: images/background.jpg
 footer: images/background.jpg
@@ -10,12 +10,10 @@ baseurl: ""
 
 # site social media and other links
 links:
-  email: jane.smith@your-lab.com
-  google-scholar: Jane Smith
-  github: your-lab
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  email: agnieszka.zuberer@med.uni-tuebingen.de
+  google-scholar: Agnieszka Zuberer
+  github: attentionaffectlab
+  twitter: azuberer
 
 ### advanced settings
 
