@@ -65,15 +65,15 @@ Our work is made possible by funding from several organizations.
   include gallery.html
   style="square"
 
-  image1="images/photo.jpg"
-  link1="https://nasa.gov/"
+  image1="images/Agnieszka_photo.jpeg"
+  link1="https://https://azuberer.github.io//"
   tooltip1="Cool Foundation"
 
-  image2="images/photo.jpg"
+  image2="images/Anna_photo.jpg"
   link2="https://nasa.gov/"
   tooltip2="Cool Institute"
 
-  image3="images/photo.jpg"
+  image3="images/Melanni_photo.png"
   link3="https://nasa.gov/"
   tooltip3="Cool Initiative"
 
