@@ -2,7 +2,7 @@
 name: Melanni Nanni-Zapeda
 image: images/Melanni_photo.png
 description: 
-role: PhD student
+role: phd
 links:
   email: nanni.melanni@gmail.com
 ---
