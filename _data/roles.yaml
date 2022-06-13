@@ -10,9 +10,13 @@ phd:
   icon: fas fa-graduation-cap
   text: PhD Student
 
-undergrad:
+externphd:
+  icon: fas fa-graduation-cap
+  text:  Collaborating PhD Student
+
+ra:
   icon: fas fa-user-graduate
-  text: Undergraduate Student
+  text: Research Assistant
 
 programmer:
   icon: fas fa-code
@@ -21,3 +25,4 @@ programmer:
 mascot:
   icon: fas fa-dog
   text: Mascot
+

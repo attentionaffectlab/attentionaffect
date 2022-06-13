@@ -1,10 +1,10 @@
 ---
 name: Agnieszka Zuberer
-image: images/Agnieszka_photo.jpeg
-role: pi
 aliases:
   - A Zuberer
   - A. Zuberer
+image: images/Agnieszka_photo.jpeg
+role: pi
 links:
   home-page: https://azuberer.github.io/
   email: azuberer@gmail.com

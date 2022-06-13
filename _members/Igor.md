@@ -1,10 +1,9 @@
 ---
 name: Igor Izyurov
-image: images/Igor_photo.png
-role: phd
 aliases:
   - I Izyurov
-
+image: images/Igor_photo.png
+role: externphd
 links:
   email: Igor@canlab.de
 ---

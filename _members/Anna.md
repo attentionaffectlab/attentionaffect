@@ -1,11 +1,10 @@
 ---
 name: Anna Giron
-image: images/Anna_photo.jpg
-role: phd
 aliases:
   - A. P. Giron
   - A P Giron
-
+image: images/Anna_photo.jpg
+role: phd
 links:
   email: anna.p.giron@gmail.com
 ---

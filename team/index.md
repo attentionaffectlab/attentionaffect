@@ -24,13 +24,37 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   include list.html
   data="members"
   component="portrait"
+  filters="role: postdoc"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
   filters="role: phd"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
+  filters="role: externphd"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: ra"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
   filters="role: programmer"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: mascot"
 %}
 {:.center}
 
