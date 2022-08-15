@@ -42,6 +42,6 @@ Calwerstr. 14
 Germany
 {:.center}
 
-{% capture col1 %} {% include figure.html image="images/psychiatry_oldBuilding.jpeg" %} {% endcapture %} {% capture col2 %} {% include figure.html image="images/psychiatry_birdseye.jpg"  %} {% endcapture %} {% include two-col.html col1=col1 col2=col2 %}
+<!-- {% capture col1 %} {% include figure.html image="images/psychiatry_oldBuilding.jpeg" %} {% endcapture %} {% capture col2 %} {% include figure.html image="images/psychiatry_birdseye.jpg"  %} {% endcapture %} {% include two-col.html col1=col1 col2=col2 %} -->
 
 
