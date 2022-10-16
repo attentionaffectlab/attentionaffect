@@ -1,7 +1,7 @@
 ---
 name: Eoghan McCauley
 aliases:
-  - I Eoghan
+  - E McCauley
 image: images/Eoghan.jpg
 role: LabKoordinator
 links:
