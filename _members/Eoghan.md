@@ -1,8 +1,8 @@
 ---
 name: Eoghan McCauley
 aliases:
-  - I Izyurov
-image: images/Igor_photo.png
+  - I Eoghan
+image: images/Eoghan.jpg
 role: LabKoordinator
 links:
   email: attentionaffectlab@gmail.com
