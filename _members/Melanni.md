@@ -10,8 +10,7 @@ links:
 ---
 
 Melanni is a psychologist and received her master's degree in Neurobiology from Universidad Nacional Autonoma de Mexico.
-She is also a Ph.D. student at Graduate Training Center of Neuroscience, Max Plank research school, Tübingen. 
-Her thesis focuses on the psychological and physiological markers of emotion processing in naturalistic paradigms using a 
-multimodal approach including fMRI, pupillometry and heart rate. 
+She is also a Ph.D. student at Graduate Training Center of Neuroscience, International Max Planck Research School, Tübingen, Germany. 
+Her thesis focuses on the psychological and physiological markers of emotion processing using naturalistic paradigms. Melanni uses a multimodal approach including fMRI, pupillometry and heart rate. 
 
 
