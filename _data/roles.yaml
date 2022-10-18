@@ -14,6 +14,10 @@ externphd:
   icon: fas fa-graduation-cap
   text:  Collaborating PhD Student
 
+LabKoordinator:
+  icon: fas fa-user-graduate
+  text: Lab Coordinator
+
 ra:
   icon: fas fa-user-graduate
   text: Research Assistant
