@@ -8,5 +8,5 @@ role: phd
 links:
   email: anna.p.giron@gmail.com
 ---
-Anna is a cognitive scientist and received her master's degree at the University of Tübingen, Germany. During her Ph.D. she uses machine learning and brain stimulation to better understand the behavioral and neural foundations of sustained attention. Ultimately, her goal is to develop a closed-loop brain stimulation procedure that can be used to enhance sustained attention.
+Anna is a cognitive scientist and received her master's degree at the University of Tübingen, Germany. For her Ph.D. she uses machine learning and brain stimulation to better understand the behavioral and neural foundations of sustained attention. Ultimately, her goal is to develop a closed-loop brain stimulation procedure that can be used to enhance sustained attention.
 
